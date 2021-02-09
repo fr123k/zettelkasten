@@ -1,13 +1,13 @@
 ---
+title: Book Ray Dalio - "Principle"
 type: book
 author: Ray Dalio
 tags: book principle
-recommended: yes
-title: Book Ray Dalio - "Principle"
+recommend: yes
 ---
 
 # Book Title - Principle
-Author: Ray
+Author: Ray Dalio
 ISBN: 978-1-5011-2402-0
 
 # Summary

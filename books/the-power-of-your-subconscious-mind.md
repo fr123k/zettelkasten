@@ -1,8 +1,9 @@
 ---
+title: Book Joseph Murphy - "The Power Of Your Subconscious MIND"
 type: book
 author: Joseph Murphy
 tags: book mind brain
-recommended: no
+recommend: no
 ---
 
 # The Power Of Your Subconscious MIND
